@@ -7,9 +7,9 @@
     }
   },
   "goerli": {
-    "operator": "0x1bE806F5a76a6Ef51B02BdedF55Ad61B6c2C6578",
+    "operator": "0x4f2249958655e1b78064cc3d1F1b8a0B12D1dbDE",
     "CellEvolution": {
-      "address": "0x6Be05aC087309c7EAC99958FF49EFaB7E7942599",
+      "address": "0x2237AE92dC4b65fBD159DD8fe5D72623c383a511",
       "impl": "CellEvolutionNewWorld"
     }
   }

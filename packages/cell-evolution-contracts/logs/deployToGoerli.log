@@ -29,3 +29,25 @@ load
 │    1    │       'totalGas'       │ 3664946 │ '2 gwei' │ '0.009882161270322093 ether' │
 └─────────┴────────────────────────┴─────────┴──────────┴──────────────────────────────┘
 {"level":30,"time":1669183817737,"pid":20044,"hostname":"DESKTOP-IKEJUGF","msg":"cellEvolution deployed at 0x6Be05aC087309c7EAC99958FF49EFaB7E7942599"}
+load
+{"level":30,"time":1669971370806,"pid":26128,"hostname":"DESKTOP-IKEJUGF","msg":"deploy CellEvolutionNewWorld"}
+{"level":30,"time":1669971372355,"pid":26128,"hostname":"DESKTOP-IKEJUGF","msg":"execute operation transaction:0, deploy CellEvolution, try 1"}
+{"level":30,"time":1669971386505,"pid":26128,"hostname":"DESKTOP-IKEJUGF","msg":"success transaction:0,deploy CellEvolution"}
+┌─────────┬────────────────────────┬─────────┬──────────┬──────────────────────────┐
+│ (index) │      functionName      │ gasUsed │ gasPrice │           fee            │
+├─────────┼────────────────────────┼─────────┼──────────┼──────────────────────────┤
+│    0    │ 'deploy CellEvolution' │ 3664946 │ '0 gwei' │ '3.71933379864e-7 ether' │
+│    1    │       'totalGas'       │ 3664946 │ '0 gwei' │ '3.71933379864e-7 ether' │
+└─────────┴────────────────────────┴─────────┴──────────┴──────────────────────────┘
+{"level":30,"time":1669971386519,"pid":26128,"hostname":"DESKTOP-IKEJUGF","msg":"cellEvolution deployed at 0xa55809fe5bC46f805e042CCEacBe41B80380709E"}
+load
+{"level":30,"time":1669971415677,"pid":26284,"hostname":"DESKTOP-IKEJUGF","msg":"deploy CellEvolutionNewWorld"}
+{"level":30,"time":1669971416752,"pid":26284,"hostname":"DESKTOP-IKEJUGF","msg":"execute operation transaction:0, deploy CellEvolution, try 1"}
+{"level":30,"time":1669971498771,"pid":26284,"hostname":"DESKTOP-IKEJUGF","msg":"success transaction:0,deploy CellEvolution"}
+┌─────────┬────────────────────────┬─────────┬──────────┬──────────────────────────┐
+│ (index) │      functionName      │ gasUsed │ gasPrice │           fee            │
+├─────────┼────────────────────────┼─────────┼──────────┼──────────────────────────┤
+│    0    │ 'deploy CellEvolution' │ 3664946 │ '0 gwei' │ '8.21739532336e-7 ether' │
+│    1    │       'totalGas'       │ 3664946 │ '0 gwei' │ '8.21739532336e-7 ether' │
+└─────────┴────────────────────────┴─────────┴──────────┴──────────────────────────┘
+{"level":30,"time":1669971498775,"pid":26284,"hostname":"DESKTOP-IKEJUGF","msg":"cellEvolution deployed at 0x2237AE92dC4b65fBD159DD8fe5D72623c383a511"}
